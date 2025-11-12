@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Upload</title>
+    <link rel="stylesheet" href="style.css">
+        
+</head>
+<body>
+    <div class="container">
+        <h1>📁 File Upload</h1>
+        
+        <div class="upload-area" id="uploadArea">
+            <div class="upload-icon">☁️</div>
+            <div class="upload-text">Click to browse or drag and drop</div>
+            <div class="upload-hint">Any file type supported</div>
+            <input type="file" id="fileInput" accept="*/*">
+        </div>
+
+        <div class="file-info" id="fileInfo">
+            <div class="file-name" id="fileName"></div>
+            <div class="file-size" id="fileSize"></div>
+        </div>
+
+        <button class="btn" id="uploadBtn" disabled>Upload File</button>
+
+        <div class="message" id="message"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
