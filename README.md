@@ -1,4 +1,4 @@
-# 📊 Cognitive Data Analyzer & Profiler (BYOK)
+# ✨ Data Story Analyzer (BYOK)
 
 A secure, client-side, provider-agnostic **Bring Your Own Key (BYOK)** data analysis application. This platform enables users to securely profile, query, and visualize CSV and Excel datasets using their own LLM API keys (Gemini, OpenAI, or Anthropic) without server-side credential exposure or data sharing.
 
