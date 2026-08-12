@@ -3,31 +3,341 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>File Upload</title>
+    <title>Antigravity CSV Analyzer & Profiler</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Style Sheets -->
     <link rel="stylesheet" href="style.css">
-        
 </head>
 <body>
-    <div class="container">
-        <h1>📁 File Upload</h1>
-        
-        <div class="upload-area" id="uploadArea">
-            <div class="upload-icon">☁️</div>
-            <div class="upload-text">Click to browse or drag and drop</div>
-            <div class="upload-hint">Any file type supported</div>
-            <input type="file" id="fileInput" accept="*/*">
+    <div class="app-container">
+        <!-- TOP NAVIGATION BAR -->
+        <header class="app-header">
+            <div class="brand">
+                <span class="logo-icon">📊</span>
+                <div class="brand-text">
+                    <h1>Antigravity</h1>
+                    <span class="subtitle">CSV & Excel Analyzer</span>
+                </div>
+            </div>
+            <div class="header-actions">
+                <!-- Model and API Status Badge -->
+                <button class="api-status-badge" id="apiConfigBadge">
+                    <span class="key-status-dot" id="apiKeyStatusDot"></span>
+                    <span id="apiStatusText">Setup LLM API</span>
+                </button>
+                <button class="btn btn-secondary" id="resetBtn" style="display: none;">
+                    <i data-lucide="rotate-ccw"></i> Reset
+                </button>
+            </div>
+        </header>
+
+        <!-- MAIN LAYOUT -->
+        <div class="main-layout" id="mainLayout">
+            
+            <!-- STEP 1: ONBOARDING SCREEN (BRING YOUR OWN KEY) -->
+            <div class="upload-screen-container" id="onboardingScreen">
+                <div class="upload-card onboarding-card">
+                    <div class="onboarding-header">
+                        <span class="lock-icon" style="font-size: 32px; display: block; margin-bottom: 12px; text-align: center;">🔑</span>
+                        <h2 class="onboarding-title" style="text-align: center;">Bring Your Own Key</h2>
+                        <p class="onboarding-subtitle" style="text-align: center;">Connect your LLM provider to unlock cognitive data analysis. Your credentials are sent directly to the AI endpoints and never touch our servers.</p>
+                    </div>
+
+                    <!-- Provider Selection Tabs -->
+                    <div class="provider-tabs" id="onboardTabs">
+                        <button class="provider-tab active" data-provider="gemini">
+                            <span>Gemini</span>
+                        </button>
+                        <button class="provider-tab" data-provider="openai">
+                            <span>GPT</span>
+                        </button>
+                        <button class="provider-tab" data-provider="anthropic">
+                            <span>Claude</span>
+                        </button>
+                    </div>
+
+                    <div class="onboarding-form">
+                        <div class="form-group">
+                            <label for="onboardModel">Select Model Tier</label>
+                            <select id="onboardModel" class="form-control">
+                                <!-- Populated dynamically -->
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="onboardKey">API Key</label>
+                            <input type="password" id="onboardKey" class="form-control" placeholder="Enter Gemini API key..." autocomplete="off">
+                        </div>
+
+                        <!-- Storage Persistence Toggle -->
+                        <div class="storage-choice">
+                            <label class="switch-container">
+                                <input type="checkbox" id="onboardPersist" checked>
+                                <span class="switch-slider"></span>
+                                <span class="switch-label">Remember key in local browser storage</span>
+                            </label>
+                            <p class="storage-hint">Warning: If saved, the key sits entirely in your browser's LocalStorage. If disabled, it is stored in session memory only and cleared when the tab is closed.</p>
+                        </div>
+
+                        <div class="connection-status-panel" id="onboardStatusPanel" style="display: none;"></div>
+
+                        <div class="form-actions-row">
+                            <button class="btn btn-secondary" id="onboardTestBtn">⚡ Test Connection</button>
+                            <button class="btn btn-primary" id="onboardUnlockBtn" disabled>Unlock Application</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- INITIAL UPLOAD VIEW -->
+            <div class="upload-screen-container" id="uploadScreen" style="display: none;">
+                <div class="upload-card">
+                    <div class="upload-area" id="uploadArea">
+                        <div class="pulse-ring"></div>
+                        <div class="upload-icon">📁</div>
+                        <h3>Upload your dataset</h3>
+                        <p class="upload-text">Drag & drop your CSV or Excel file here, or <span class="highlight">browse files</span></p>
+                        <p class="upload-hint">Supports .csv, .xlsx, .xls</p>
+                        <input type="file" id="fileInput" accept=".csv, .xlsx, .xls">
+                    </div>
+
+                    <!-- Sandbox datasets for easy demoing -->
+                    <div class="sandbox-datasets">
+                        <h4>Or try one of our sample datasets:</h4>
+                        <div class="sample-chips">
+                            <button class="sample-chip" data-sample="tech-sales">💻 Tech Sales & Profit</button>
+                            <button class="sample-chip" data-sample="user-demographics">👥 User Demographics</button>
+                            <button class="sample-chip" data-sample="weather-trends">🌤️ Weather & Climate</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- DASHBOARD SCREEN (HIDDEN UNTIL LOADED) -->
+            <div class="dashboard-screen" id="dashboardScreen" style="display: none;">
+                
+                <!-- SIDEBAR: File info, settings, preview -->
+                <aside class="sidebar">
+                    <!-- File Metadata Panel -->
+                    <div class="sidebar-card">
+                        <h3 class="card-title"><i data-lucide="file-text"></i> Dataset Details</h3>
+                        <div class="metadata-list">
+                            <div class="metadata-item">
+                                <span class="meta-label">File Name</span>
+                                <span class="meta-value" id="metaFileName">-</span>
+                            </div>
+                            <div class="metadata-item">
+                                <span class="meta-label">File Size</span>
+                                <span class="meta-value" id="metaFileSize">-</span>
+                            </div>
+                            <!-- Sheet selector (for Excel) -->
+                            <div class="metadata-item" id="sheetSelectorContainer" style="display: none;">
+                                <span class="meta-label">Active Sheet</span>
+                                <select id="sheetSelect" class="form-select"></select>
+                            </div>
+                            <div class="metadata-item">
+                                <span class="meta-label">Total Rows</span>
+                                <span class="meta-value" id="metaTotalRows">-</span>
+                            </div>
+                            <div class="metadata-item">
+                                <span class="meta-label">Total Columns</span>
+                                <span class="meta-value" id="metaTotalCols">-</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Column Explorer -->
+                    <div class="sidebar-card">
+                        <div class="card-header-flex">
+                            <h3 class="card-title"><i data-lucide="columns"></i> Column Profile</h3>
+                            <span class="badge" id="colCountBadge">0 Cols</span>
+                        </div>
+                        <div class="column-list" id="columnList">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </div>
+
+                    <!-- Quick Raw Data Table Toggle -->
+                    <button class="btn btn-secondary w-full" id="toggleDataPreviewBtn">
+                        <i data-lucide="table"></i> View Raw Data Table
+                    </button>
+                </aside>
+
+                <!-- MAIN REPORT AREA -->
+                <main class="report-area">
+                    <!-- ENGINE INDICATOR BANNER -->
+                    <div class="engine-banner info" id="engineBanner">
+                        <span class="banner-icon">ℹ️</span>
+                        <div class="banner-content">
+                            <h4 id="engineBannerTitle">Running Heuristics Engine</h4>
+                            <p id="engineBannerDesc">Running client-side math insights. Provide a Gemini API key in the top bar to unlock LLM-powered narrative interpretation.</p>
+                        </div>
+                    </div>
+
+                    <!-- EXECUTIVE SUMMARY -->
+                    <section class="summary-section sidebar-card">
+                        <div class="report-header">
+                            <span class="report-badge">Analysis Report</span>
+                            <h2 class="report-title" id="reportTitle">Analyzing Dataset...</h2>
+                        </div>
+                        <p class="report-narrative" id="reportNarrative">
+                            Calculating column summaries, detecting types, distributions, and finding relationships in your data...
+                        </p>
+                    </section>
+
+                    <!-- KEY METRICS ROW -->
+                    <section class="metrics-grid" id="metricsGrid">
+                        <!-- Populated dynamically (e.g. cells filled, completeness, numeric col count) -->
+                    </section>
+
+                    <!-- INSIGHTS & CHARTS GRID -->
+                    <section class="insights-section">
+                        <div class="section-header">
+                            <h3><i data-lucide="sparkles"></i> Computed Insights & Visuals</h3>
+                            <p class="section-subtitle">Deterministic charts and LLM/heuristic narrative interpretation</p>
+                        </div>
+                        
+                        <div class="insights-grid" id="insightsGrid">
+                            <!-- Insight Cards with Charts populated dynamically -->
+                        </div>
+                    </section>
+
+                    <!-- CORRELATION MATRIX MAP (if numeric cols exist) -->
+                    <section class="correlation-section sidebar-card" id="correlationSection" style="display: none;">
+                        <h3 class="card-title"><i data-lucide="git-merge"></i> Linear Correlations (|r| > 0.3)</h3>
+                        <p class="card-subtitle">Strength of linear relationships between numerical variables</p>
+                        <div class="correlation-list" id="correlationList">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </section>
+                </main>
+
+                <!-- INTERACTIVE CHAT HELPER -->
+                <aside class="chat-assistant">
+                    <div class="chat-header">
+                        <div class="chat-title">
+                            <span class="chat-icon">💬</span>
+                            <div>
+                                <h4>Data Assistant</h4>
+                                <span class="chat-status">Ready to chat</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="chat-messages" id="chatMessages">
+                        <div class="message assistant-msg">
+                            Hi! I am your Data Assistant. Feel free to ask any specific questions about your uploaded data, or click one of the suggested questions below.
+                        </div>
+                    </div>
+                    <!-- Quick Suggestions -->
+                    <div class="chat-suggestions" id="chatSuggestions">
+                        <!-- Populated dynamically -->
+                    </div>
+                    <!-- Chat Input -->
+                    <div class="chat-input-area">
+                        <textarea id="chatInput" placeholder="Ask a question about this data..." rows="1"></textarea>
+                        <button class="send-btn" id="sendChatBtn" title="Send Question">
+                            <i data-lucide="send"></i>
+                        </button>
+                    </div>
+                </aside>
+
+            </div>
         </div>
-
-        <div class="file-info" id="fileInfo">
-            <div class="file-name" id="fileName"></div>
-            <div class="file-size" id="fileSize"></div>
-        </div>
-
-        <button class="btn" id="uploadBtn" disabled>Upload File</button>
-
-        <div class="message" id="message"></div>
     </div>
 
+    <!-- RAW DATA PREVIEW MODAL -->
+    <div class="modal" id="dataPreviewModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3><i data-lucide="table"></i> Raw Data Explorer</h3>
+                <span class="close-modal" id="closeModalBtn">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="table-actions">
+                    <input type="text" id="tableSearchInput" placeholder="Search rows...">
+                    <span class="table-info-text" id="tableInfoText">Showing 0 of 0 rows</span>
+                </div>
+                <div class="table-container">
+                    <table id="previewTable">
+                        <thead>
+                            <tr id="previewTableHead"></tr>
+                        </thead>
+                        <tbody id="previewTableBody"></tbody>
+                    </table>
+                </div>
+                <div class="table-pagination">
+                    <button class="btn btn-secondary btn-sm" id="prevPageBtn" disabled>Previous</button>
+                    <span class="page-indicator" id="pageIndicator">Page 1 of 1</span>
+                    <button class="btn btn-secondary btn-sm" id="nextPageBtn" disabled>Next</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- LLM API CONFIGURATION MODAL -->
+    <div class="modal" id="apiConfigModal">
+        <div class="modal-content modal-content-sm">
+            <div class="modal-header">
+                <h3>⚙️ Settings & Credentials</h3>
+                <span class="close-modal" id="closeApiConfigBtn">&times;</span>
+            </div>
+            <div class="modal-body">
+                <!-- Provider Tabs inside Modal -->
+                <div class="provider-tabs" id="modalTabs">
+                    <button class="provider-tab active" data-provider="gemini">
+                        <span>Gemini</span>
+                    </button>
+                    <button class="provider-tab" data-provider="openai">
+                        <span>GPT</span>
+                    </button>
+                    <button class="provider-tab" data-provider="anthropic">
+                        <span>Claude</span>
+                    </button>
+                </div>
+
+                <div class="form-group">
+                    <label for="modalModel">Model Tier</label>
+                    <select id="modalModel" class="form-control">
+                        <!-- Populated dynamically -->
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="modalKey">API Key</label>
+                    <input type="password" id="modalKey" class="form-control" placeholder="Enter Gemini API key..." autocomplete="off">
+                </div>
+
+                <div class="storage-choice">
+                    <label class="switch-container">
+                        <input type="checkbox" id="modalPersist" checked>
+                        <span class="switch-slider"></span>
+                        <span class="switch-label">Remember key in local browser storage</span>
+                    </label>
+                    <p class="storage-hint">Warning: If saved, the key sits entirely in your browser's LocalStorage. If disabled, it is stored in session memory only and cleared when the tab is closed.</p>
+                </div>
+
+                <div class="connection-status-panel" id="modalStatusPanel" style="display: none;"></div>
+
+                <div class="form-actions-column">
+                    <button class="btn btn-secondary w-full" id="modalTestBtn" style="margin-bottom: 8px;">⚡ Test Connection</button>
+                    <button class="btn btn-primary w-full" id="modalSaveBtn" disabled style="margin-bottom: 8px;">Save Settings</button>
+                    <button class="btn btn-secondary w-full" id="modalDisconnectBtn" style="background: rgba(239, 68, 68, 0.1); border-color: rgba(239, 68, 68, 0.2); color: #f87171;">Disconnect Key</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Dependencies -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Application Logic -->
+    <script src="config.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

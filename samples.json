@@ -1,0 +1,3518 @@
+{
+    "tech-sales": [
+        {
+            "Date": "2025-01-01",
+            "Region": "West",
+            "Product Category": "Audio",
+            "Sales": 505,
+            "Profit": 123,
+            "Customer Rating": 3.5
+        },
+        {
+            "Date": "2025-01-02",
+            "Region": "South",
+            "Product Category": "Smartphones",
+            "Sales": 512,
+            "Profit": 90,
+            "Customer Rating": 4.9
+        },
+        {
+            "Date": "2025-01-03",
+            "Region": "North",
+            "Product Category": "Smartphones",
+            "Sales": 742,
+            "Profit": 132,
+            "Customer Rating": 3.9
+        },
+        {
+            "Date": "2025-01-04",
+            "Region": "Central",
+            "Product Category": "Audio",
+            "Sales": 752,
+            "Profit": 187,
+            "Customer Rating": 3.8
+        },
+        {
+            "Date": "2025-01-05",
+            "Region": "East",
+            "Product Category": "Accessories",
+            "Sales": 820,
+            "Profit": 319,
+            "Customer Rating": 4.6
+        },
+        {
+            "Date": "2025-01-06",
+            "Region": "North",
+            "Product Category": "Tablets",
+            "Sales": 603,
+            "Profit": 92,
+            "Customer Rating": 3.5
+        },
+        {
+            "Date": "2025-01-07",
+            "Region": "South",
+            "Product Category": "Laptops",
+            "Sales": 842,
+            "Profit": 93,
+            "Customer Rating": 4.1
+        },
+        {
+            "Date": "2025-01-08",
+            "Region": "Central",
+            "Product Category": "Accessories",
+            "Sales": 724,
+            "Profit": 272,
+            "Customer Rating": 4.9
+        },
+        {
+            "Date": "2025-01-09",
+            "Region": "Central",
+            "Product Category": "Laptops",
+            "Sales": 625,
+            "Profit": 95,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-01-10",
+            "Region": "West",
+            "Product Category": "Accessories",
+            "Sales": 693,
+            "Profit": 264,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-01-11",
+            "Region": "West",
+            "Product Category": "Smartphones",
+            "Sales": 884,
+            "Profit": 151,
+            "Customer Rating": 4.1
+        },
+        {
+            "Date": "2025-01-12",
+            "Region": "North",
+            "Product Category": "Smartphones",
+            "Sales": 768,
+            "Profit": 116,
+            "Customer Rating": 4
+        },
+        {
+            "Date": "2025-01-13",
+            "Region": "South",
+            "Product Category": "Audio",
+            "Sales": 554,
+            "Profit": 140,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-01-14",
+            "Region": "West",
+            "Product Category": "Accessories",
+            "Sales": 599,
+            "Profit": 234,
+            "Customer Rating": 4.7
+        },
+        {
+            "Date": "2025-01-15",
+            "Region": "North",
+            "Product Category": "Audio",
+            "Sales": 559,
+            "Profit": 133,
+            "Customer Rating": 3.5
+        },
+        {
+            "Date": "2025-01-16",
+            "Region": "East",
+            "Product Category": "Smartphones",
+            "Sales": 597,
+            "Profit": 71,
+            "Customer Rating": 4.1
+        },
+        {
+            "Date": "2025-01-17",
+            "Region": "South",
+            "Product Category": "Smartphones",
+            "Sales": 718,
+            "Profit": 93,
+            "Customer Rating": 4.4
+        },
+        {
+            "Date": "2025-01-18",
+            "Region": "West",
+            "Product Category": "Audio",
+            "Sales": 773,
+            "Profit": 215,
+            "Customer Rating": 4.2
+        },
+        {
+            "Date": "2025-01-19",
+            "Region": "North",
+            "Product Category": "Smartphones",
+            "Sales": 604,
+            "Profit": 80,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-01-20",
+            "Region": "Central",
+            "Product Category": "Monitors",
+            "Sales": 932,
+            "Profit": 141,
+            "Customer Rating": 3.9
+        },
+        {
+            "Date": "2025-01-21",
+            "Region": "South",
+            "Product Category": "Monitors",
+            "Sales": 705,
+            "Profit": 98,
+            "Customer Rating": 4.2
+        },
+        {
+            "Date": "2025-01-22",
+            "Region": "East",
+            "Product Category": "Smartphones",
+            "Sales": 604,
+            "Profit": 102,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-01-23",
+            "Region": "West",
+            "Product Category": "Monitors",
+            "Sales": 724,
+            "Profit": 116,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-01-24",
+            "Region": "Central",
+            "Product Category": "Monitors",
+            "Sales": 815,
+            "Profit": 116,
+            "Customer Rating": 3.7
+        },
+        {
+            "Date": "2025-01-25",
+            "Region": "Central",
+            "Product Category": "Monitors",
+            "Sales": 851,
+            "Profit": 149,
+            "Customer Rating": 4.4
+        },
+        {
+            "Date": "2025-01-26",
+            "Region": "South",
+            "Product Category": "Tablets",
+            "Sales": 707,
+            "Profit": 84,
+            "Customer Rating": 4.1
+        },
+        {
+            "Date": "2025-01-27",
+            "Region": "North",
+            "Product Category": "Smartphones",
+            "Sales": 948,
+            "Profit": 157,
+            "Customer Rating": 4.7
+        },
+        {
+            "Date": "2025-01-28",
+            "Region": "East",
+            "Product Category": "Laptops",
+            "Sales": 754,
+            "Profit": 107,
+            "Customer Rating": 3.8
+        },
+        {
+            "Date": "2025-01-29",
+            "Region": "West",
+            "Product Category": "Monitors",
+            "Sales": 627,
+            "Profit": 113,
+            "Customer Rating": 4.7
+        },
+        {
+            "Date": "2025-01-30",
+            "Region": "East",
+            "Product Category": "Tablets",
+            "Sales": 874,
+            "Profit": 143,
+            "Customer Rating": 3.5
+        },
+        {
+            "Date": "2025-01-31",
+            "Region": "West",
+            "Product Category": "Smartphones",
+            "Sales": 841,
+            "Profit": 132,
+            "Customer Rating": 4.1
+        },
+        {
+            "Date": "2025-02-01",
+            "Region": "North",
+            "Product Category": "Monitors",
+            "Sales": 721,
+            "Profit": 102,
+            "Customer Rating": 4.7
+        },
+        {
+            "Date": "2025-02-02",
+            "Region": "Central",
+            "Product Category": "Audio",
+            "Sales": 638,
+            "Profit": 179,
+            "Customer Rating": 5
+        },
+        {
+            "Date": "2025-02-03",
+            "Region": "South",
+            "Product Category": "Monitors",
+            "Sales": 785,
+            "Profit": 98,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-02-04",
+            "Region": "North",
+            "Product Category": "Laptops",
+            "Sales": 844,
+            "Profit": 95,
+            "Customer Rating": 4.1
+        },
+        {
+            "Date": "2025-02-05",
+            "Region": "West",
+            "Product Category": "Tablets",
+            "Sales": 802,
+            "Profit": 136,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-02-06",
+            "Region": "South",
+            "Product Category": "Smartphones",
+            "Sales": 904,
+            "Profit": 148,
+            "Customer Rating": 3.6
+        },
+        {
+            "Date": "2025-02-07",
+            "Region": "North",
+            "Product Category": "Monitors",
+            "Sales": 1036,
+            "Profit": 133,
+            "Customer Rating": 4.6
+        },
+        {
+            "Date": "2025-02-08",
+            "Region": "Central",
+            "Product Category": "Monitors",
+            "Sales": 696,
+            "Profit": 104,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-02-09",
+            "Region": "East",
+            "Product Category": "Smartphones",
+            "Sales": 857,
+            "Profit": 125,
+            "Customer Rating": 3.9
+        },
+        {
+            "Date": "2025-02-10",
+            "Region": "North",
+            "Product Category": "Tablets",
+            "Sales": 748,
+            "Profit": 133,
+            "Customer Rating": 4.6
+        },
+        {
+            "Date": "2025-02-11",
+            "Region": "Central",
+            "Product Category": "Tablets",
+            "Sales": 1015,
+            "Profit": 157,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-02-12",
+            "Region": "South",
+            "Product Category": "Smartphones",
+            "Sales": 724,
+            "Profit": 122,
+            "Customer Rating": 5
+        },
+        {
+            "Date": "2025-02-13",
+            "Region": "South",
+            "Product Category": "Smartphones",
+            "Sales": 767,
+            "Profit": 114,
+            "Customer Rating": 3.8
+        },
+        {
+            "Date": "2025-02-14",
+            "Region": "North",
+            "Product Category": "Smartphones",
+            "Sales": 707,
+            "Profit": 128,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-02-15",
+            "Region": "Central",
+            "Product Category": "Laptops",
+            "Sales": 974,
+            "Profit": 103,
+            "Customer Rating": 4.1
+        },
+        {
+            "Date": "2025-02-16",
+            "Region": "Central",
+            "Product Category": "Monitors",
+            "Sales": 795,
+            "Profit": 140,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-02-17",
+            "Region": "West",
+            "Product Category": "Laptops",
+            "Sales": 803,
+            "Profit": 92,
+            "Customer Rating": 4.9
+        },
+        {
+            "Date": "2025-02-18",
+            "Region": "Central",
+            "Product Category": "Accessories",
+            "Sales": 815,
+            "Profit": 334,
+            "Customer Rating": 3.7
+        },
+        {
+            "Date": "2025-02-19",
+            "Region": "West",
+            "Product Category": "Laptops",
+            "Sales": 958,
+            "Profit": 120,
+            "Customer Rating": 4.2
+        },
+        {
+            "Date": "2025-02-20",
+            "Region": "South",
+            "Product Category": "Tablets",
+            "Sales": 1005,
+            "Profit": 150,
+            "Customer Rating": 4
+        },
+        {
+            "Date": "2025-02-21",
+            "Region": "South",
+            "Product Category": "Smartphones",
+            "Sales": 717,
+            "Profit": 108,
+            "Customer Rating": 4.4
+        },
+        {
+            "Date": "2025-02-22",
+            "Region": "North",
+            "Product Category": "Smartphones",
+            "Sales": 831,
+            "Profit": 104,
+            "Customer Rating": 4.6
+        },
+        {
+            "Date": "2025-02-23",
+            "Region": "North",
+            "Product Category": "Laptops",
+            "Sales": 1079,
+            "Profit": 116,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-02-24",
+            "Region": "South",
+            "Product Category": "Laptops",
+            "Sales": 1085,
+            "Profit": 131,
+            "Customer Rating": 3.8
+        },
+        {
+            "Date": "2025-02-25",
+            "Region": "North",
+            "Product Category": "Laptops",
+            "Sales": 923,
+            "Profit": 123,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-02-26",
+            "Region": "North",
+            "Product Category": "Audio",
+            "Sales": 1103,
+            "Profit": 256,
+            "Customer Rating": 4.7
+        },
+        {
+            "Date": "2025-02-27",
+            "Region": "East",
+            "Product Category": "Monitors",
+            "Sales": 850,
+            "Profit": 122,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-02-28",
+            "Region": "West",
+            "Product Category": "Laptops",
+            "Sales": 925,
+            "Profit": 96,
+            "Customer Rating": 3.6
+        },
+        {
+            "Date": "2025-03-01",
+            "Region": "Central",
+            "Product Category": "Audio",
+            "Sales": 1039,
+            "Profit": 284,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-03-02",
+            "Region": "Central",
+            "Product Category": "Smartphones",
+            "Sales": 917,
+            "Profit": 147,
+            "Customer Rating": 4
+        },
+        {
+            "Date": "2025-03-03",
+            "Region": "West",
+            "Product Category": "Laptops",
+            "Sales": 1097,
+            "Profit": 150,
+            "Customer Rating": 5
+        },
+        {
+            "Date": "2025-03-04",
+            "Region": "East",
+            "Product Category": "Accessories",
+            "Sales": 987,
+            "Profit": 386,
+            "Customer Rating": 5
+        },
+        {
+            "Date": "2025-03-05",
+            "Region": "West",
+            "Product Category": "Laptops",
+            "Sales": 1012,
+            "Profit": 144,
+            "Customer Rating": 3.9
+        },
+        {
+            "Date": "2025-03-06",
+            "Region": "East",
+            "Product Category": "Tablets",
+            "Sales": 965,
+            "Profit": 136,
+            "Customer Rating": 3.8
+        },
+        {
+            "Date": "2025-03-07",
+            "Region": "West",
+            "Product Category": "Laptops",
+            "Sales": 921,
+            "Profit": 105,
+            "Customer Rating": 3.5
+        },
+        {
+            "Date": "2025-03-08",
+            "Region": "Central",
+            "Product Category": "Tablets",
+            "Sales": 1085,
+            "Profit": 166,
+            "Customer Rating": 4.6
+        },
+        {
+            "Date": "2025-03-09",
+            "Region": "West",
+            "Product Category": "Accessories",
+            "Sales": 908,
+            "Profit": 377,
+            "Customer Rating": 3.7
+        },
+        {
+            "Date": "2025-03-10",
+            "Region": "South",
+            "Product Category": "Tablets",
+            "Sales": 929,
+            "Profit": 116,
+            "Customer Rating": 4.1
+        },
+        {
+            "Date": "2025-03-11",
+            "Region": "Central",
+            "Product Category": "Laptops",
+            "Sales": 1126,
+            "Profit": 151,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-03-12",
+            "Region": "South",
+            "Product Category": "Monitors",
+            "Sales": 1071,
+            "Profit": 166,
+            "Customer Rating": 4
+        },
+        {
+            "Date": "2025-03-13",
+            "Region": "North",
+            "Product Category": "Accessories",
+            "Sales": 941,
+            "Profit": 392,
+            "Customer Rating": 4.5
+        },
+        {
+            "Date": "2025-03-14",
+            "Region": "North",
+            "Product Category": "Tablets",
+            "Sales": 806,
+            "Profit": 146,
+            "Customer Rating": 3.6
+        },
+        {
+            "Date": "2025-03-15",
+            "Region": "West",
+            "Product Category": "Laptops",
+            "Sales": 1105,
+            "Profit": 151,
+            "Customer Rating": 3.8
+        },
+        {
+            "Date": "2025-03-16",
+            "Region": "South",
+            "Product Category": "Monitors",
+            "Sales": 888,
+            "Profit": 139,
+            "Customer Rating": 5
+        },
+        {
+            "Date": "2025-03-17",
+            "Region": "Central",
+            "Product Category": "Monitors",
+            "Sales": 1131,
+            "Profit": 171,
+            "Customer Rating": 3.6
+        },
+        {
+            "Date": "2025-03-18",
+            "Region": "East",
+            "Product Category": "Laptops",
+            "Sales": 947,
+            "Profit": 104,
+            "Customer Rating": 3.7
+        },
+        {
+            "Date": "2025-03-19",
+            "Region": "East",
+            "Product Category": "Audio",
+            "Sales": 946,
+            "Profit": 242,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-03-20",
+            "Region": "East",
+            "Product Category": "Audio",
+            "Sales": 944,
+            "Profit": 255,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-03-21",
+            "Region": "Central",
+            "Product Category": "Laptops",
+            "Sales": 977,
+            "Profit": 123,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-03-22",
+            "Region": "Central",
+            "Product Category": "Smartphones",
+            "Sales": 941,
+            "Profit": 127,
+            "Customer Rating": 3.5
+        },
+        {
+            "Date": "2025-03-23",
+            "Region": "South",
+            "Product Category": "Smartphones",
+            "Sales": 842,
+            "Profit": 111,
+            "Customer Rating": 4
+        },
+        {
+            "Date": "2025-03-24",
+            "Region": "West",
+            "Product Category": "Tablets",
+            "Sales": 859,
+            "Profit": 113,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-03-25",
+            "Region": "East",
+            "Product Category": "Tablets",
+            "Sales": 1061,
+            "Profit": 147,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-03-26",
+            "Region": "Central",
+            "Product Category": "Audio",
+            "Sales": 972,
+            "Profit": 244,
+            "Customer Rating": 4.6
+        },
+        {
+            "Date": "2025-03-27",
+            "Region": "West",
+            "Product Category": "Tablets",
+            "Sales": 893,
+            "Profit": 153,
+            "Customer Rating": 4.1
+        },
+        {
+            "Date": "2025-03-28",
+            "Region": "North",
+            "Product Category": "Audio",
+            "Sales": 1105,
+            "Profit": 299,
+            "Customer Rating": 4.1
+        },
+        {
+            "Date": "2025-03-29",
+            "Region": "Central",
+            "Product Category": "Accessories",
+            "Sales": 1047,
+            "Profit": 417,
+            "Customer Rating": 4.2
+        },
+        {
+            "Date": "2025-03-30",
+            "Region": "Central",
+            "Product Category": "Monitors",
+            "Sales": 898,
+            "Profit": 156,
+            "Customer Rating": 4.1
+        },
+        {
+            "Date": "2025-03-31",
+            "Region": "West",
+            "Product Category": "Monitors",
+            "Sales": 902,
+            "Profit": 156,
+            "Customer Rating": 3.7
+        },
+        {
+            "Date": "2025-04-01",
+            "Region": "West",
+            "Product Category": "Laptops",
+            "Sales": 1215,
+            "Profit": 166,
+            "Customer Rating": 3.5
+        },
+        {
+            "Date": "2025-04-02",
+            "Region": "South",
+            "Product Category": "Monitors",
+            "Sales": 1117,
+            "Profit": 182,
+            "Customer Rating": 4.6
+        },
+        {
+            "Date": "2025-04-03",
+            "Region": "East",
+            "Product Category": "Tablets",
+            "Sales": 1210,
+            "Profit": 186,
+            "Customer Rating": 4.7
+        },
+        {
+            "Date": "2025-04-04",
+            "Region": "Central",
+            "Product Category": "Audio",
+            "Sales": 1103,
+            "Profit": 282,
+            "Customer Rating": 4.9
+        },
+        {
+            "Date": "2025-04-05",
+            "Region": "East",
+            "Product Category": "Audio",
+            "Sales": 1167,
+            "Profit": 287,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-04-06",
+            "Region": "Central",
+            "Product Category": "Monitors",
+            "Sales": 1169,
+            "Profit": 179,
+            "Customer Rating": 4.5
+        },
+        {
+            "Date": "2025-04-07",
+            "Region": "East",
+            "Product Category": "Smartphones",
+            "Sales": 1063,
+            "Profit": 156,
+            "Customer Rating": 4.7
+        },
+        {
+            "Date": "2025-04-08",
+            "Region": "Central",
+            "Product Category": "Audio",
+            "Sales": 1197,
+            "Profit": 316,
+            "Customer Rating": 4.3
+        },
+        {
+            "Date": "2025-04-09",
+            "Region": "South",
+            "Product Category": "Audio",
+            "Sales": 1055,
+            "Profit": 280,
+            "Customer Rating": 4.4
+        },
+        {
+            "Date": "2025-04-10",
+            "Region": "North",
+            "Product Category": "Laptops",
+            "Sales": 918,
+            "Profit": 122,
+            "Customer Rating": 3.8
+        },
+        {
+            "Date": "2025-04-11",
+            "Region": "South",
+            "Product Category": "Accessories",
+            "Sales": 909,
+            "Profit": 342,
+            "Customer Rating": 4.6
+        },
+        {
+            "Date": "2025-04-12",
+            "Region": "North",
+            "Product Category": "Monitors",
+            "Sales": 1192,
+            "Profit": 174,
+            "Customer Rating": 4.5
+        },
+        {
+            "Date": "2025-04-13",
+            "Region": "Central",
+            "Product Category": "Smartphones",
+            "Sales": 1275,
+            "Profit": 202,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-04-14",
+            "Region": "West",
+            "Product Category": "Smartphones",
+            "Sales": 1069,
+            "Profit": 173,
+            "Customer Rating": 4.2
+        },
+        {
+            "Date": "2025-04-15",
+            "Region": "North",
+            "Product Category": "Tablets",
+            "Sales": 1032,
+            "Profit": 161,
+            "Customer Rating": 4.9
+        },
+        {
+            "Date": "2025-04-16",
+            "Region": "East",
+            "Product Category": "Tablets",
+            "Sales": 1263,
+            "Profit": 175,
+            "Customer Rating": 4.6
+        },
+        {
+            "Date": "2025-04-17",
+            "Region": "Central",
+            "Product Category": "Laptops",
+            "Sales": 1060,
+            "Profit": 125,
+            "Customer Rating": 4.9
+        },
+        {
+            "Date": "2025-04-18",
+            "Region": "South",
+            "Product Category": "Tablets",
+            "Sales": 988,
+            "Profit": 158,
+            "Customer Rating": 4.2
+        },
+        {
+            "Date": "2025-04-19",
+            "Region": "East",
+            "Product Category": "Accessories",
+            "Sales": 953,
+            "Profit": 393,
+            "Customer Rating": 4.6
+        },
+        {
+            "Date": "2025-04-20",
+            "Region": "East",
+            "Product Category": "Smartphones",
+            "Sales": 1167,
+            "Profit": 157,
+            "Customer Rating": 4
+        },
+        {
+            "Date": "2025-04-21",
+            "Region": "East",
+            "Product Category": "Laptops",
+            "Sales": 1171,
+            "Profit": 161,
+            "Customer Rating": 4.8
+        },
+        {
+            "Date": "2025-04-22",
+            "Region": "Central",
+            "Product Category": "Audio",
+            "Sales": 1273,
+            "Profit": 327,
+            "Customer Rating": 4.7
+        },
+        {
+            "Date": "2025-04-23",
+            "Region": "Central",
+            "Product Category": "Tablets",
+            "Sales": 975,
+            "Profit": 139,
+            "Customer Rating": 4.5
+        },
+        {
+            "Date": "2025-04-24",
+            "Region": "North",
+            "Product Category": "Monitors",
+            "Sales": 1258,
+            "Profit": 191,
+            "Customer Rating": 3.9
+        },
+        {
+            "Date": "2025-04-25",
+            "Region": "South",
+            "Product Category": "Accessories",
+            "Sales": 968,
+            "Profit": 412,
+            "Customer Rating": 4.6
+        },
+        {
+            "Date": "2025-04-26",
+            "Region": "North",
+            "Product Category": "Tablets",
+            "Sales": 983,
+            "Profit": 127,
+            "Customer Rating": 4
+        },
+        {
+            "Date": "2025-04-27",
+            "Region": "West",
+            "Product Category": "Smartphones",
+            "Sales": 1271,
+            "Profit": 166,
+            "Customer Rating": 3.9
+        },
+        {
+            "Date": "2025-04-28",
+            "Region": "West",
+            "Product Category": "Tablets",
+            "Sales": 1136,
+            "Profit": 176,
+            "Customer Rating": 4.7
+        },
+        {
+            "Date": "2025-04-29",
+            "Region": "South",
+            "Product Category": "Tablets",
+            "Sales": 1092,
+            "Profit": 160,
+            "Customer Rating": 4.5
+        },
+        {
+            "Date": "2025-04-30",
+            "Region": "East",
+            "Product Category": "Monitors",
+            "Sales": 999,
+            "Profit": 135,
+            "Customer Rating": 3.6
+        }
+    ],
+    "user-demographics": [
+        {
+            "Full Name": "William Miller",
+            "Gender": "Female",
+            "Age": 39,
+            "Education": "Masters",
+            "Annual Income": 105109,
+            "Loyalty Member": "No",
+            "Total Purchases": 10
+        },
+        {
+            "Full Name": "David Brown",
+            "Gender": "Male",
+            "Age": 33,
+            "Education": "Bachelors",
+            "Annual Income": 70177,
+            "Loyalty Member": "No",
+            "Total Purchases": 10
+        },
+        {
+            "Full Name": "Jennifer Brown",
+            "Gender": "Non-Binary",
+            "Age": 35,
+            "Education": "PhD",
+            "Annual Income": 123867,
+            "Loyalty Member": "No",
+            "Total Purchases": 12
+        },
+        {
+            "Full Name": "John Smith",
+            "Gender": "Female",
+            "Age": 30,
+            "Education": "Bachelors",
+            "Annual Income": 61265,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 18
+        },
+        {
+            "Full Name": "David Miller",
+            "Gender": "Female",
+            "Age": 24,
+            "Education": "Bachelors",
+            "Annual Income": 53571,
+            "Loyalty Member": "No",
+            "Total Purchases": 6
+        },
+        {
+            "Full Name": "James Brown",
+            "Gender": "Female",
+            "Age": 48,
+            "Education": "PhD",
+            "Annual Income": 131844,
+            "Loyalty Member": "No",
+            "Total Purchases": 12
+        },
+        {
+            "Full Name": "Elizabeth Davis",
+            "Gender": "Female",
+            "Age": 30,
+            "Education": "Masters",
+            "Annual Income": 90728,
+            "Loyalty Member": "No",
+            "Total Purchases": 9
+        },
+        {
+            "Full Name": "Jennifer Martinez",
+            "Gender": "Female",
+            "Age": 54,
+            "Education": "PhD",
+            "Annual Income": 132628,
+            "Loyalty Member": "No",
+            "Total Purchases": 15
+        },
+        {
+            "Full Name": "James Rodriguez",
+            "Gender": "Non-Binary",
+            "Age": 36,
+            "Education": "PhD",
+            "Annual Income": 111242,
+            "Loyalty Member": "No",
+            "Total Purchases": 13
+        },
+        {
+            "Full Name": "Barbara Smith",
+            "Gender": "Male",
+            "Age": 62,
+            "Education": "PhD",
+            "Annual Income": 144148,
+            "Loyalty Member": "No",
+            "Total Purchases": 12
+        },
+        {
+            "Full Name": "Elizabeth Rodriguez",
+            "Gender": "Female",
+            "Age": 36,
+            "Education": "PhD",
+            "Annual Income": 121090,
+            "Loyalty Member": "No",
+            "Total Purchases": 12
+        },
+        {
+            "Full Name": "Barbara Davis",
+            "Gender": "Non-Binary",
+            "Age": 40,
+            "Education": "Masters",
+            "Annual Income": 97673,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 18
+        },
+        {
+            "Full Name": "Elizabeth Rodriguez",
+            "Gender": "Non-Binary",
+            "Age": 59,
+            "Education": "PhD",
+            "Annual Income": 140594,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 23
+        },
+        {
+            "Full Name": "Linda Rodriguez",
+            "Gender": "Non-Binary",
+            "Age": 22,
+            "Education": "Bachelors",
+            "Annual Income": 59743,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 16
+        },
+        {
+            "Full Name": "Elizabeth Jones",
+            "Gender": "Female",
+            "Age": 34,
+            "Education": "Bachelors",
+            "Annual Income": 76832,
+            "Loyalty Member": "No",
+            "Total Purchases": 6
+        },
+        {
+            "Full Name": "Elizabeth Miller",
+            "Gender": "Female",
+            "Age": 52,
+            "Education": "PhD",
+            "Annual Income": 130327,
+            "Loyalty Member": "No",
+            "Total Purchases": 15
+        },
+        {
+            "Full Name": "Jennifer Garcia",
+            "Gender": "Female",
+            "Age": 49,
+            "Education": "PhD",
+            "Annual Income": 131114,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "Elizabeth Martinez",
+            "Gender": "Male",
+            "Age": 50,
+            "Education": "PhD",
+            "Annual Income": 123994,
+            "Loyalty Member": "No",
+            "Total Purchases": 13
+        },
+        {
+            "Full Name": "Linda Jones",
+            "Gender": "Female",
+            "Age": 40,
+            "Education": "PhD",
+            "Annual Income": 113291,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 20
+        },
+        {
+            "Full Name": "Mary Williams",
+            "Gender": "Female",
+            "Age": 65,
+            "Education": "PhD",
+            "Annual Income": 145308,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 23
+        },
+        {
+            "Full Name": "James Williams",
+            "Gender": "Non-Binary",
+            "Age": 42,
+            "Education": "Masters",
+            "Annual Income": 111997,
+            "Loyalty Member": "No",
+            "Total Purchases": 12
+        },
+        {
+            "Full Name": "Linda Davis",
+            "Gender": "Male",
+            "Age": 60,
+            "Education": "PhD",
+            "Annual Income": 143546,
+            "Loyalty Member": "No",
+            "Total Purchases": 16
+        },
+        {
+            "Full Name": "Patricia Jones",
+            "Gender": "Male",
+            "Age": 49,
+            "Education": "PhD",
+            "Annual Income": 140341,
+            "Loyalty Member": "No",
+            "Total Purchases": 15
+        },
+        {
+            "Full Name": "Linda Davis",
+            "Gender": "Non-Binary",
+            "Age": 45,
+            "Education": "PhD",
+            "Annual Income": 125051,
+            "Loyalty Member": "No",
+            "Total Purchases": 14
+        },
+        {
+            "Full Name": "William Rodriguez",
+            "Gender": "Female",
+            "Age": 25,
+            "Education": "Bachelors",
+            "Annual Income": 71412,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 19
+        },
+        {
+            "Full Name": "Elizabeth Martinez",
+            "Gender": "Female",
+            "Age": 51,
+            "Education": "PhD",
+            "Annual Income": 136272,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 26
+        },
+        {
+            "Full Name": "Mary Johnson",
+            "Gender": "Male",
+            "Age": 61,
+            "Education": "PhD",
+            "Annual Income": 151534,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "William Jones",
+            "Gender": "Female",
+            "Age": 47,
+            "Education": "PhD",
+            "Annual Income": 125995,
+            "Loyalty Member": "No",
+            "Total Purchases": 11
+        },
+        {
+            "Full Name": "Patricia Miller",
+            "Gender": "Non-Binary",
+            "Age": 50,
+            "Education": "PhD",
+            "Annual Income": 138731,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 23
+        },
+        {
+            "Full Name": "James Jones",
+            "Gender": "Female",
+            "Age": 56,
+            "Education": "PhD",
+            "Annual Income": 135104,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 23
+        },
+        {
+            "Full Name": "Jennifer Martinez",
+            "Gender": "Female",
+            "Age": 50,
+            "Education": "PhD",
+            "Annual Income": 124786,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "Linda Williams",
+            "Gender": "Female",
+            "Age": 48,
+            "Education": "PhD",
+            "Annual Income": 131209,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "Mary Smith",
+            "Gender": "Female",
+            "Age": 56,
+            "Education": "PhD",
+            "Annual Income": 145114,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 27
+        },
+        {
+            "Full Name": "Jennifer Davis",
+            "Gender": "Non-Binary",
+            "Age": 54,
+            "Education": "PhD",
+            "Annual Income": 137367,
+            "Loyalty Member": "No",
+            "Total Purchases": 16
+        },
+        {
+            "Full Name": "John Rodriguez",
+            "Gender": "Non-Binary",
+            "Age": 49,
+            "Education": "PhD",
+            "Annual Income": 141374,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 27
+        },
+        {
+            "Full Name": "David Davis",
+            "Gender": "Non-Binary",
+            "Age": 34,
+            "Education": "Masters",
+            "Annual Income": 99650,
+            "Loyalty Member": "No",
+            "Total Purchases": 9
+        },
+        {
+            "Full Name": "Jennifer Miller",
+            "Gender": "Male",
+            "Age": 51,
+            "Education": "PhD",
+            "Annual Income": 140272,
+            "Loyalty Member": "No",
+            "Total Purchases": 16
+        },
+        {
+            "Full Name": "Patricia Jones",
+            "Gender": "Female",
+            "Age": 43,
+            "Education": "PhD",
+            "Annual Income": 134236,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 23
+        },
+        {
+            "Full Name": "Patricia Jones",
+            "Gender": "Female",
+            "Age": 39,
+            "Education": "PhD",
+            "Annual Income": 122706,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "David Garcia",
+            "Gender": "Male",
+            "Age": 38,
+            "Education": "Masters",
+            "Annual Income": 94023,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "Michael Smith",
+            "Gender": "Non-Binary",
+            "Age": 46,
+            "Education": "PhD",
+            "Annual Income": 128871,
+            "Loyalty Member": "No",
+            "Total Purchases": 12
+        },
+        {
+            "Full Name": "Barbara Martinez",
+            "Gender": "Female",
+            "Age": 53,
+            "Education": "PhD",
+            "Annual Income": 138888,
+            "Loyalty Member": "No",
+            "Total Purchases": 13
+        },
+        {
+            "Full Name": "James Davis",
+            "Gender": "Male",
+            "Age": 58,
+            "Education": "PhD",
+            "Annual Income": 134160,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "Robert Davis",
+            "Gender": "Male",
+            "Age": 26,
+            "Education": "Bachelors",
+            "Annual Income": 64782,
+            "Loyalty Member": "No",
+            "Total Purchases": 9
+        },
+        {
+            "Full Name": "Jennifer Brown",
+            "Gender": "Non-Binary",
+            "Age": 21,
+            "Education": "Masters",
+            "Annual Income": 84042,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 19
+        },
+        {
+            "Full Name": "William Williams",
+            "Gender": "Female",
+            "Age": 54,
+            "Education": "PhD",
+            "Annual Income": 141274,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "James Williams",
+            "Gender": "Male",
+            "Age": 60,
+            "Education": "PhD",
+            "Annual Income": 138352,
+            "Loyalty Member": "No",
+            "Total Purchases": 13
+        },
+        {
+            "Full Name": "Linda Garcia",
+            "Gender": "Non-Binary",
+            "Age": 38,
+            "Education": "Masters",
+            "Annual Income": 108494,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 20
+        },
+        {
+            "Full Name": "Jennifer Jones",
+            "Gender": "Female",
+            "Age": 55,
+            "Education": "PhD",
+            "Annual Income": 140245,
+            "Loyalty Member": "No",
+            "Total Purchases": 13
+        },
+        {
+            "Full Name": "Patricia Martinez",
+            "Gender": "Non-Binary",
+            "Age": 43,
+            "Education": "Masters",
+            "Annual Income": 104116,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 20
+        },
+        {
+            "Full Name": "James Miller",
+            "Gender": "Male",
+            "Age": 45,
+            "Education": "PhD",
+            "Annual Income": 133454,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "James Johnson",
+            "Gender": "Male",
+            "Age": 48,
+            "Education": "PhD",
+            "Annual Income": 131972,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 22
+        },
+        {
+            "Full Name": "Mary Garcia",
+            "Gender": "Female",
+            "Age": 41,
+            "Education": "Masters",
+            "Annual Income": 110139,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 20
+        },
+        {
+            "Full Name": "John Garcia",
+            "Gender": "Non-Binary",
+            "Age": 57,
+            "Education": "PhD",
+            "Annual Income": 140837,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "Mary Brown",
+            "Gender": "Female",
+            "Age": 64,
+            "Education": "PhD",
+            "Annual Income": 153101,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 28
+        },
+        {
+            "Full Name": "Robert Johnson",
+            "Gender": "Female",
+            "Age": 48,
+            "Education": "PhD",
+            "Annual Income": 133908,
+            "Loyalty Member": "No",
+            "Total Purchases": 14
+        },
+        {
+            "Full Name": "Patricia Garcia",
+            "Gender": "Non-Binary",
+            "Age": 30,
+            "Education": "Masters",
+            "Annual Income": 89298,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "James Miller",
+            "Gender": "Male",
+            "Age": 43,
+            "Education": "PhD",
+            "Annual Income": 134353,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "Elizabeth Garcia",
+            "Gender": "Non-Binary",
+            "Age": 57,
+            "Education": "PhD",
+            "Annual Income": 137040,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 25
+        },
+        {
+            "Full Name": "James Garcia",
+            "Gender": "Female",
+            "Age": 49,
+            "Education": "PhD",
+            "Annual Income": 126140,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "William Garcia",
+            "Gender": "Non-Binary",
+            "Age": 29,
+            "Education": "Bachelors",
+            "Annual Income": 67174,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 18
+        },
+        {
+            "Full Name": "David Martinez",
+            "Gender": "Male",
+            "Age": 62,
+            "Education": "PhD",
+            "Annual Income": 144233,
+            "Loyalty Member": "No",
+            "Total Purchases": 15
+        },
+        {
+            "Full Name": "James Garcia",
+            "Gender": "Female",
+            "Age": 40,
+            "Education": "PhD",
+            "Annual Income": 127669,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 25
+        },
+        {
+            "Full Name": "James Jones",
+            "Gender": "Female",
+            "Age": 42,
+            "Education": "PhD",
+            "Annual Income": 119197,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 20
+        },
+        {
+            "Full Name": "Linda Jones",
+            "Gender": "Non-Binary",
+            "Age": 59,
+            "Education": "PhD",
+            "Annual Income": 135081,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 22
+        },
+        {
+            "Full Name": "Linda Martinez",
+            "Gender": "Male",
+            "Age": 58,
+            "Education": "PhD",
+            "Annual Income": 141614,
+            "Loyalty Member": "No",
+            "Total Purchases": 13
+        },
+        {
+            "Full Name": "Linda Davis",
+            "Gender": "Male",
+            "Age": 46,
+            "Education": "PhD",
+            "Annual Income": 124120,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 25
+        },
+        {
+            "Full Name": "Michael Smith",
+            "Gender": "Male",
+            "Age": 33,
+            "Education": "Masters",
+            "Annual Income": 93527,
+            "Loyalty Member": "No",
+            "Total Purchases": 9
+        },
+        {
+            "Full Name": "Elizabeth Williams",
+            "Gender": "Non-Binary",
+            "Age": 45,
+            "Education": "PhD",
+            "Annual Income": 123830,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 23
+        },
+        {
+            "Full Name": "Patricia Johnson",
+            "Gender": "Female",
+            "Age": 39,
+            "Education": "PhD",
+            "Annual Income": 114752,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 20
+        },
+        {
+            "Full Name": "Linda Rodriguez",
+            "Gender": "Male",
+            "Age": 60,
+            "Education": "PhD",
+            "Annual Income": 136542,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 22
+        },
+        {
+            "Full Name": "Linda Miller",
+            "Gender": "Non-Binary",
+            "Age": 54,
+            "Education": "PhD",
+            "Annual Income": 129320,
+            "Loyalty Member": "No",
+            "Total Purchases": 11
+        },
+        {
+            "Full Name": "Jennifer Davis",
+            "Gender": "Female",
+            "Age": 55,
+            "Education": "PhD",
+            "Annual Income": 131596,
+            "Loyalty Member": "No",
+            "Total Purchases": 13
+        },
+        {
+            "Full Name": "Patricia Rodriguez",
+            "Gender": "Female",
+            "Age": 27,
+            "Education": "Masters",
+            "Annual Income": 88036,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 20
+        },
+        {
+            "Full Name": "Mary Miller",
+            "Gender": "Female",
+            "Age": 43,
+            "Education": "PhD",
+            "Annual Income": 121017,
+            "Loyalty Member": "No",
+            "Total Purchases": 11
+        },
+        {
+            "Full Name": "John Smith",
+            "Gender": "Male",
+            "Age": 62,
+            "Education": "PhD",
+            "Annual Income": 156458,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 26
+        },
+        {
+            "Full Name": "James Martinez",
+            "Gender": "Non-Binary",
+            "Age": 57,
+            "Education": "PhD",
+            "Annual Income": 147104,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "William Davis",
+            "Gender": "Male",
+            "Age": 26,
+            "Education": "Bachelors",
+            "Annual Income": 56185,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 19
+        },
+        {
+            "Full Name": "Elizabeth Rodriguez",
+            "Gender": "Non-Binary",
+            "Age": 56,
+            "Education": "PhD",
+            "Annual Income": 142192,
+            "Loyalty Member": "No",
+            "Total Purchases": 17
+        },
+        {
+            "Full Name": "John Rodriguez",
+            "Gender": "Female",
+            "Age": 41,
+            "Education": "PhD",
+            "Annual Income": 128701,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 25
+        },
+        {
+            "Full Name": "James Brown",
+            "Gender": "Non-Binary",
+            "Age": 35,
+            "Education": "Masters",
+            "Annual Income": 87752,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "David Williams",
+            "Gender": "Non-Binary",
+            "Age": 43,
+            "Education": "PhD",
+            "Annual Income": 123268,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 22
+        },
+        {
+            "Full Name": "Mary Williams",
+            "Gender": "Non-Binary",
+            "Age": 26,
+            "Education": "Masters",
+            "Annual Income": 79189,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 20
+        },
+        {
+            "Full Name": "David Rodriguez",
+            "Gender": "Male",
+            "Age": 31,
+            "Education": "Bachelors",
+            "Annual Income": 65607,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 17
+        },
+        {
+            "Full Name": "Jennifer Garcia",
+            "Gender": "Non-Binary",
+            "Age": 47,
+            "Education": "PhD",
+            "Annual Income": 134834,
+            "Loyalty Member": "No",
+            "Total Purchases": 14
+        },
+        {
+            "Full Name": "Mary Garcia",
+            "Gender": "Male",
+            "Age": 56,
+            "Education": "PhD",
+            "Annual Income": 145389,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "Patricia Martinez",
+            "Gender": "Non-Binary",
+            "Age": 22,
+            "Education": "High School",
+            "Annual Income": 38809,
+            "Loyalty Member": "No",
+            "Total Purchases": 8
+        },
+        {
+            "Full Name": "Barbara Garcia",
+            "Gender": "Male",
+            "Age": 35,
+            "Education": "PhD",
+            "Annual Income": 115323,
+            "Loyalty Member": "No",
+            "Total Purchases": 10
+        },
+        {
+            "Full Name": "Michael Miller",
+            "Gender": "Female",
+            "Age": 44,
+            "Education": "PhD",
+            "Annual Income": 120318,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "Patricia Jones",
+            "Gender": "Female",
+            "Age": 52,
+            "Education": "PhD",
+            "Annual Income": 126502,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 25
+        },
+        {
+            "Full Name": "Jennifer Miller",
+            "Gender": "Non-Binary",
+            "Age": 56,
+            "Education": "PhD",
+            "Annual Income": 137912,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 25
+        },
+        {
+            "Full Name": "Patricia Brown",
+            "Gender": "Non-Binary",
+            "Age": 63,
+            "Education": "PhD",
+            "Annual Income": 157372,
+            "Loyalty Member": "No",
+            "Total Purchases": 15
+        },
+        {
+            "Full Name": "William Johnson",
+            "Gender": "Female",
+            "Age": 48,
+            "Education": "PhD",
+            "Annual Income": 124920,
+            "Loyalty Member": "No",
+            "Total Purchases": 15
+        },
+        {
+            "Full Name": "Jennifer Williams",
+            "Gender": "Female",
+            "Age": 49,
+            "Education": "PhD",
+            "Annual Income": 131219,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 22
+        },
+        {
+            "Full Name": "Patricia Rodriguez",
+            "Gender": "Non-Binary",
+            "Age": 51,
+            "Education": "PhD",
+            "Annual Income": 126468,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 23
+        },
+        {
+            "Full Name": "James Smith",
+            "Gender": "Non-Binary",
+            "Age": 55,
+            "Education": "PhD",
+            "Annual Income": 140443,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 25
+        },
+        {
+            "Full Name": "Robert Smith",
+            "Gender": "Non-Binary",
+            "Age": 29,
+            "Education": "Bachelors",
+            "Annual Income": 71893,
+            "Loyalty Member": "No",
+            "Total Purchases": 8
+        },
+        {
+            "Full Name": "Elizabeth Williams",
+            "Gender": "Male",
+            "Age": 29,
+            "Education": "Masters",
+            "Annual Income": 93341,
+            "Loyalty Member": "No",
+            "Total Purchases": 9
+        },
+        {
+            "Full Name": "Elizabeth Jones",
+            "Gender": "Non-Binary",
+            "Age": 26,
+            "Education": "Bachelors",
+            "Annual Income": 70211,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 16
+        },
+        {
+            "Full Name": "Linda Williams",
+            "Gender": "Non-Binary",
+            "Age": 66,
+            "Education": "PhD",
+            "Annual Income": 158363,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "Patricia Johnson",
+            "Gender": "Female",
+            "Age": 43,
+            "Education": "PhD",
+            "Annual Income": 130143,
+            "Loyalty Member": "No",
+            "Total Purchases": 11
+        },
+        {
+            "Full Name": "Linda Williams",
+            "Gender": "Non-Binary",
+            "Age": 41,
+            "Education": "PhD",
+            "Annual Income": 113708,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "Linda Smith",
+            "Gender": "Female",
+            "Age": 62,
+            "Education": "PhD",
+            "Annual Income": 151586,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 25
+        },
+        {
+            "Full Name": "David Smith",
+            "Gender": "Non-Binary",
+            "Age": 38,
+            "Education": "PhD",
+            "Annual Income": 124253,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "Robert Miller",
+            "Gender": "Non-Binary",
+            "Age": 30,
+            "Education": "Masters",
+            "Annual Income": 89337,
+            "Loyalty Member": "No",
+            "Total Purchases": 9
+        },
+        {
+            "Full Name": "David Davis",
+            "Gender": "Male",
+            "Age": 50,
+            "Education": "PhD",
+            "Annual Income": 130785,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 23
+        },
+        {
+            "Full Name": "Linda Jones",
+            "Gender": "Non-Binary",
+            "Age": 27,
+            "Education": "Bachelors",
+            "Annual Income": 62143,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 19
+        },
+        {
+            "Full Name": "Barbara Rodriguez",
+            "Gender": "Female",
+            "Age": 51,
+            "Education": "PhD",
+            "Annual Income": 139524,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 27
+        },
+        {
+            "Full Name": "Michael Williams",
+            "Gender": "Female",
+            "Age": 33,
+            "Education": "Bachelors",
+            "Annual Income": 66552,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 17
+        },
+        {
+            "Full Name": "David Davis",
+            "Gender": "Male",
+            "Age": 60,
+            "Education": "PhD",
+            "Annual Income": 149236,
+            "Loyalty Member": "No",
+            "Total Purchases": 16
+        },
+        {
+            "Full Name": "Patricia Miller",
+            "Gender": "Female",
+            "Age": 38,
+            "Education": "Masters",
+            "Annual Income": 108692,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "Barbara Davis",
+            "Gender": "Non-Binary",
+            "Age": 49,
+            "Education": "PhD",
+            "Annual Income": 140891,
+            "Loyalty Member": "No",
+            "Total Purchases": 16
+        },
+        {
+            "Full Name": "Michael Davis",
+            "Gender": "Male",
+            "Age": 33,
+            "Education": "Masters",
+            "Annual Income": 99220,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "David Brown",
+            "Gender": "Non-Binary",
+            "Age": 25,
+            "Education": "Bachelors",
+            "Annual Income": 53975,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 17
+        },
+        {
+            "Full Name": "James Miller",
+            "Gender": "Non-Binary",
+            "Age": 31,
+            "Education": "Bachelors",
+            "Annual Income": 69734,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 16
+        },
+        {
+            "Full Name": "Mary Jones",
+            "Gender": "Female",
+            "Age": 49,
+            "Education": "PhD",
+            "Annual Income": 131931,
+            "Loyalty Member": "No",
+            "Total Purchases": 15
+        },
+        {
+            "Full Name": "John Williams",
+            "Gender": "Non-Binary",
+            "Age": 42,
+            "Education": "PhD",
+            "Annual Income": 126047,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "Mary Garcia",
+            "Gender": "Male",
+            "Age": 47,
+            "Education": "Masters",
+            "Annual Income": 109850,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "William Brown",
+            "Gender": "Female",
+            "Age": 36,
+            "Education": "Bachelors",
+            "Annual Income": 73243,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 17
+        },
+        {
+            "Full Name": "Elizabeth Martinez",
+            "Gender": "Female",
+            "Age": 61,
+            "Education": "PhD",
+            "Annual Income": 148960,
+            "Loyalty Member": "No",
+            "Total Purchases": 17
+        },
+        {
+            "Full Name": "Jennifer Davis",
+            "Gender": "Non-Binary",
+            "Age": 31,
+            "Education": "Masters",
+            "Annual Income": 98828,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 19
+        },
+        {
+            "Full Name": "Linda Davis",
+            "Gender": "Non-Binary",
+            "Age": 32,
+            "Education": "Masters",
+            "Annual Income": 97707,
+            "Loyalty Member": "No",
+            "Total Purchases": 10
+        },
+        {
+            "Full Name": "William Rodriguez",
+            "Gender": "Female",
+            "Age": 52,
+            "Education": "PhD",
+            "Annual Income": 132868,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 21
+        },
+        {
+            "Full Name": "John Davis",
+            "Gender": "Non-Binary",
+            "Age": 36,
+            "Education": "PhD",
+            "Annual Income": 125968,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 22
+        },
+        {
+            "Full Name": "Mary Brown",
+            "Gender": "Non-Binary",
+            "Age": 54,
+            "Education": "PhD",
+            "Annual Income": 129807,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 22
+        },
+        {
+            "Full Name": "Barbara Garcia",
+            "Gender": "Female",
+            "Age": 44,
+            "Education": "PhD",
+            "Annual Income": 117461,
+            "Loyalty Member": "No",
+            "Total Purchases": 10
+        },
+        {
+            "Full Name": "William Jones",
+            "Gender": "Female",
+            "Age": 47,
+            "Education": "PhD",
+            "Annual Income": 130013,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 22
+        },
+        {
+            "Full Name": "David Smith",
+            "Gender": "Non-Binary",
+            "Age": 51,
+            "Education": "PhD",
+            "Annual Income": 138109,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 25
+        },
+        {
+            "Full Name": "Robert Smith",
+            "Gender": "Non-Binary",
+            "Age": 25,
+            "Education": "High School",
+            "Annual Income": 36960,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 16
+        },
+        {
+            "Full Name": "David Rodriguez",
+            "Gender": "Male",
+            "Age": 66,
+            "Education": "PhD",
+            "Annual Income": 156756,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 25
+        },
+        {
+            "Full Name": "Linda Williams",
+            "Gender": "Non-Binary",
+            "Age": 66,
+            "Education": "PhD",
+            "Annual Income": 156623,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "Robert Jones",
+            "Gender": "Female",
+            "Age": 39,
+            "Education": "PhD",
+            "Annual Income": 117812,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 23
+        },
+        {
+            "Full Name": "Robert Smith",
+            "Gender": "Female",
+            "Age": 56,
+            "Education": "PhD",
+            "Annual Income": 145676,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 27
+        },
+        {
+            "Full Name": "Jennifer Williams",
+            "Gender": "Female",
+            "Age": 67,
+            "Education": "PhD",
+            "Annual Income": 149099,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 23
+        },
+        {
+            "Full Name": "Patricia Rodriguez",
+            "Gender": "Male",
+            "Age": 53,
+            "Education": "PhD",
+            "Annual Income": 134307,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "James Williams",
+            "Gender": "Non-Binary",
+            "Age": 58,
+            "Education": "PhD",
+            "Annual Income": 138678,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "Mary Brown",
+            "Gender": "Male",
+            "Age": 43,
+            "Education": "Masters",
+            "Annual Income": 104584,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 22
+        },
+        {
+            "Full Name": "Barbara Miller",
+            "Gender": "Female",
+            "Age": 60,
+            "Education": "PhD",
+            "Annual Income": 137685,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 23
+        },
+        {
+            "Full Name": "Jennifer Davis",
+            "Gender": "Female",
+            "Age": 36,
+            "Education": "Masters",
+            "Annual Income": 97481,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 22
+        },
+        {
+            "Full Name": "Linda Smith",
+            "Gender": "Female",
+            "Age": 26,
+            "Education": "High School",
+            "Annual Income": 36253,
+            "Loyalty Member": "No",
+            "Total Purchases": 5
+        },
+        {
+            "Full Name": "William Garcia",
+            "Gender": "Non-Binary",
+            "Age": 54,
+            "Education": "PhD",
+            "Annual Income": 142268,
+            "Loyalty Member": "No",
+            "Total Purchases": 13
+        },
+        {
+            "Full Name": "Robert Smith",
+            "Gender": "Female",
+            "Age": 43,
+            "Education": "PhD",
+            "Annual Income": 122302,
+            "Loyalty Member": "No",
+            "Total Purchases": 14
+        },
+        {
+            "Full Name": "Patricia Smith",
+            "Gender": "Male",
+            "Age": 51,
+            "Education": "PhD",
+            "Annual Income": 126302,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 24
+        },
+        {
+            "Full Name": "Patricia Jones",
+            "Gender": "Non-Binary",
+            "Age": 39,
+            "Education": "Masters",
+            "Annual Income": 99213,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 20
+        },
+        {
+            "Full Name": "Barbara Rodriguez",
+            "Gender": "Female",
+            "Age": 42,
+            "Education": "Masters",
+            "Annual Income": 106970,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 19
+        },
+        {
+            "Full Name": "Michael Miller",
+            "Gender": "Male",
+            "Age": 36,
+            "Education": "Masters",
+            "Annual Income": 105073,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 22
+        },
+        {
+            "Full Name": "Elizabeth Rodriguez",
+            "Gender": "Male",
+            "Age": 38,
+            "Education": "Masters",
+            "Annual Income": 93158,
+            "Loyalty Member": "No",
+            "Total Purchases": 8
+        },
+        {
+            "Full Name": "David Williams",
+            "Gender": "Female",
+            "Age": 19,
+            "Education": "High School",
+            "Annual Income": 23642,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 15
+        },
+        {
+            "Full Name": "Patricia Miller",
+            "Gender": "Male",
+            "Age": 28,
+            "Education": "Masters",
+            "Annual Income": 95556,
+            "Loyalty Member": "No",
+            "Total Purchases": 9
+        },
+        {
+            "Full Name": "Robert Smith",
+            "Gender": "Male",
+            "Age": 36,
+            "Education": "Masters",
+            "Annual Income": 87943,
+            "Loyalty Member": "Yes",
+            "Total Purchases": 20
+        }
+    ],
+    "weather-trends": [
+        {
+            "Date": "2025-06-01",
+            "City": "New York",
+            "Temperature (C)": 24,
+            "Humidity (%)": 64,
+            "Wind Speed (km/h)": 12,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-01",
+            "City": "London",
+            "Temperature (C)": 17,
+            "Humidity (%)": 75,
+            "Wind Speed (km/h)": 9,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-01",
+            "City": "Tokyo",
+            "Temperature (C)": 24,
+            "Humidity (%)": 56,
+            "Wind Speed (km/h)": 30,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-01",
+            "City": "Sydney",
+            "Temperature (C)": 11,
+            "Humidity (%)": 65,
+            "Wind Speed (km/h)": 19,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-02",
+            "City": "New York",
+            "Temperature (C)": 26,
+            "Humidity (%)": 53,
+            "Wind Speed (km/h)": 29,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-02",
+            "City": "London",
+            "Temperature (C)": 18,
+            "Humidity (%)": 60,
+            "Wind Speed (km/h)": 12,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-02",
+            "City": "Tokyo",
+            "Temperature (C)": 26,
+            "Humidity (%)": 90,
+            "Wind Speed (km/h)": 14,
+            "Rainfall (mm)": 5.2
+        },
+        {
+            "Date": "2025-06-02",
+            "City": "Sydney",
+            "Temperature (C)": 10,
+            "Humidity (%)": 72,
+            "Wind Speed (km/h)": 29,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-03",
+            "City": "New York",
+            "Temperature (C)": 24,
+            "Humidity (%)": 60,
+            "Wind Speed (km/h)": 11,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-03",
+            "City": "London",
+            "Temperature (C)": 16,
+            "Humidity (%)": 81,
+            "Wind Speed (km/h)": 12,
+            "Rainfall (mm)": 6.3
+        },
+        {
+            "Date": "2025-06-03",
+            "City": "Tokyo",
+            "Temperature (C)": 29,
+            "Humidity (%)": 53,
+            "Wind Speed (km/h)": 15,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-03",
+            "City": "Sydney",
+            "Temperature (C)": 11,
+            "Humidity (%)": 53,
+            "Wind Speed (km/h)": 16,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-04",
+            "City": "New York",
+            "Temperature (C)": 27,
+            "Humidity (%)": 62,
+            "Wind Speed (km/h)": 16,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-04",
+            "City": "London",
+            "Temperature (C)": 17,
+            "Humidity (%)": 88,
+            "Wind Speed (km/h)": 15,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-04",
+            "City": "Tokyo",
+            "Temperature (C)": 27,
+            "Humidity (%)": 60,
+            "Wind Speed (km/h)": 6,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-04",
+            "City": "Sydney",
+            "Temperature (C)": 10,
+            "Humidity (%)": 64,
+            "Wind Speed (km/h)": 14,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-05",
+            "City": "New York",
+            "Temperature (C)": 24,
+            "Humidity (%)": 82,
+            "Wind Speed (km/h)": 18,
+            "Rainfall (mm)": 7.4
+        },
+        {
+            "Date": "2025-06-05",
+            "City": "London",
+            "Temperature (C)": 18,
+            "Humidity (%)": 57,
+            "Wind Speed (km/h)": 27,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-05",
+            "City": "Tokyo",
+            "Temperature (C)": 27,
+            "Humidity (%)": 78,
+            "Wind Speed (km/h)": 19,
+            "Rainfall (mm)": 1.6
+        },
+        {
+            "Date": "2025-06-05",
+            "City": "Sydney",
+            "Temperature (C)": 10,
+            "Humidity (%)": 71,
+            "Wind Speed (km/h)": 8,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-06",
+            "City": "New York",
+            "Temperature (C)": 27,
+            "Humidity (%)": 61,
+            "Wind Speed (km/h)": 7,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-06",
+            "City": "London",
+            "Temperature (C)": 17,
+            "Humidity (%)": 72,
+            "Wind Speed (km/h)": 24,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-06",
+            "City": "Tokyo",
+            "Temperature (C)": 30,
+            "Humidity (%)": 58,
+            "Wind Speed (km/h)": 25,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-06",
+            "City": "Sydney",
+            "Temperature (C)": 12,
+            "Humidity (%)": 79,
+            "Wind Speed (km/h)": 23,
+            "Rainfall (mm)": 3.6
+        },
+        {
+            "Date": "2025-06-07",
+            "City": "New York",
+            "Temperature (C)": 26,
+            "Humidity (%)": 75,
+            "Wind Speed (km/h)": 7,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-07",
+            "City": "London",
+            "Temperature (C)": 18,
+            "Humidity (%)": 65,
+            "Wind Speed (km/h)": 24,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-07",
+            "City": "Tokyo",
+            "Temperature (C)": 30,
+            "Humidity (%)": 64,
+            "Wind Speed (km/h)": 18,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-07",
+            "City": "Sydney",
+            "Temperature (C)": 11,
+            "Humidity (%)": 90,
+            "Wind Speed (km/h)": 27,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-08",
+            "City": "New York",
+            "Temperature (C)": 26,
+            "Humidity (%)": 76,
+            "Wind Speed (km/h)": 13,
+            "Rainfall (mm)": 1.9
+        },
+        {
+            "Date": "2025-06-08",
+            "City": "London",
+            "Temperature (C)": 18,
+            "Humidity (%)": 78,
+            "Wind Speed (km/h)": 24,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-08",
+            "City": "Tokyo",
+            "Temperature (C)": 27,
+            "Humidity (%)": 58,
+            "Wind Speed (km/h)": 16,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-08",
+            "City": "Sydney",
+            "Temperature (C)": 11,
+            "Humidity (%)": 52,
+            "Wind Speed (km/h)": 21,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-09",
+            "City": "New York",
+            "Temperature (C)": 29,
+            "Humidity (%)": 71,
+            "Wind Speed (km/h)": 8,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-09",
+            "City": "London",
+            "Temperature (C)": 19,
+            "Humidity (%)": 62,
+            "Wind Speed (km/h)": 16,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-09",
+            "City": "Tokyo",
+            "Temperature (C)": 30,
+            "Humidity (%)": 53,
+            "Wind Speed (km/h)": 28,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-09",
+            "City": "Sydney",
+            "Temperature (C)": 8,
+            "Humidity (%)": 65,
+            "Wind Speed (km/h)": 14,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-10",
+            "City": "New York",
+            "Temperature (C)": 28,
+            "Humidity (%)": 53,
+            "Wind Speed (km/h)": 18,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-10",
+            "City": "London",
+            "Temperature (C)": 18,
+            "Humidity (%)": 60,
+            "Wind Speed (km/h)": 16,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-10",
+            "City": "Tokyo",
+            "Temperature (C)": 31,
+            "Humidity (%)": 73,
+            "Wind Speed (km/h)": 26,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-10",
+            "City": "Sydney",
+            "Temperature (C)": 9,
+            "Humidity (%)": 69,
+            "Wind Speed (km/h)": 21,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-11",
+            "City": "New York",
+            "Temperature (C)": 31,
+            "Humidity (%)": 65,
+            "Wind Speed (km/h)": 15,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-11",
+            "City": "London",
+            "Temperature (C)": 20,
+            "Humidity (%)": 50,
+            "Wind Speed (km/h)": 14,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-11",
+            "City": "Tokyo",
+            "Temperature (C)": 29,
+            "Humidity (%)": 65,
+            "Wind Speed (km/h)": 9,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-11",
+            "City": "Sydney",
+            "Temperature (C)": 10,
+            "Humidity (%)": 79,
+            "Wind Speed (km/h)": 27,
+            "Rainfall (mm)": 4.2
+        },
+        {
+            "Date": "2025-06-12",
+            "City": "New York",
+            "Temperature (C)": 28,
+            "Humidity (%)": 57,
+            "Wind Speed (km/h)": 6,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-12",
+            "City": "London",
+            "Temperature (C)": 19,
+            "Humidity (%)": 79,
+            "Wind Speed (km/h)": 24,
+            "Rainfall (mm)": 6
+        },
+        {
+            "Date": "2025-06-12",
+            "City": "Tokyo",
+            "Temperature (C)": 32,
+            "Humidity (%)": 60,
+            "Wind Speed (km/h)": 14,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-12",
+            "City": "Sydney",
+            "Temperature (C)": 9,
+            "Humidity (%)": 65,
+            "Wind Speed (km/h)": 16,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-13",
+            "City": "New York",
+            "Temperature (C)": 30,
+            "Humidity (%)": 82,
+            "Wind Speed (km/h)": 9,
+            "Rainfall (mm)": 8.8
+        },
+        {
+            "Date": "2025-06-13",
+            "City": "London",
+            "Temperature (C)": 19,
+            "Humidity (%)": 89,
+            "Wind Speed (km/h)": 21,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-13",
+            "City": "Tokyo",
+            "Temperature (C)": 30,
+            "Humidity (%)": 73,
+            "Wind Speed (km/h)": 6,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-13",
+            "City": "Sydney",
+            "Temperature (C)": 9,
+            "Humidity (%)": 72,
+            "Wind Speed (km/h)": 28,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-14",
+            "City": "New York",
+            "Temperature (C)": 31,
+            "Humidity (%)": 53,
+            "Wind Speed (km/h)": 13,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-14",
+            "City": "London",
+            "Temperature (C)": 19,
+            "Humidity (%)": 70,
+            "Wind Speed (km/h)": 8,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-14",
+            "City": "Tokyo",
+            "Temperature (C)": 31,
+            "Humidity (%)": 86,
+            "Wind Speed (km/h)": 6,
+            "Rainfall (mm)": 10.4
+        },
+        {
+            "Date": "2025-06-14",
+            "City": "Sydney",
+            "Temperature (C)": 7,
+            "Humidity (%)": 83,
+            "Wind Speed (km/h)": 22,
+            "Rainfall (mm)": 6.7
+        },
+        {
+            "Date": "2025-06-15",
+            "City": "New York",
+            "Temperature (C)": 32,
+            "Humidity (%)": 80,
+            "Wind Speed (km/h)": 18,
+            "Rainfall (mm)": 2.5
+        },
+        {
+            "Date": "2025-06-15",
+            "City": "London",
+            "Temperature (C)": 20,
+            "Humidity (%)": 59,
+            "Wind Speed (km/h)": 8,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-15",
+            "City": "Tokyo",
+            "Temperature (C)": 31,
+            "Humidity (%)": 76,
+            "Wind Speed (km/h)": 17,
+            "Rainfall (mm)": 2.5
+        },
+        {
+            "Date": "2025-06-15",
+            "City": "Sydney",
+            "Temperature (C)": 9,
+            "Humidity (%)": 87,
+            "Wind Speed (km/h)": 19,
+            "Rainfall (mm)": 0.6
+        },
+        {
+            "Date": "2025-06-16",
+            "City": "New York",
+            "Temperature (C)": 30,
+            "Humidity (%)": 72,
+            "Wind Speed (km/h)": 19,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-16",
+            "City": "London",
+            "Temperature (C)": 20,
+            "Humidity (%)": 66,
+            "Wind Speed (km/h)": 11,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-16",
+            "City": "Tokyo",
+            "Temperature (C)": 33,
+            "Humidity (%)": 70,
+            "Wind Speed (km/h)": 24,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-16",
+            "City": "Sydney",
+            "Temperature (C)": 7,
+            "Humidity (%)": 78,
+            "Wind Speed (km/h)": 18,
+            "Rainfall (mm)": 6.3
+        },
+        {
+            "Date": "2025-06-17",
+            "City": "New York",
+            "Temperature (C)": 28,
+            "Humidity (%)": 68,
+            "Wind Speed (km/h)": 10,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-17",
+            "City": "London",
+            "Temperature (C)": 21,
+            "Humidity (%)": 76,
+            "Wind Speed (km/h)": 6,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-17",
+            "City": "Tokyo",
+            "Temperature (C)": 32,
+            "Humidity (%)": 73,
+            "Wind Speed (km/h)": 21,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-17",
+            "City": "Sydney",
+            "Temperature (C)": 6,
+            "Humidity (%)": 80,
+            "Wind Speed (km/h)": 9,
+            "Rainfall (mm)": 3.3
+        },
+        {
+            "Date": "2025-06-18",
+            "City": "New York",
+            "Temperature (C)": 32,
+            "Humidity (%)": 82,
+            "Wind Speed (km/h)": 30,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-18",
+            "City": "London",
+            "Temperature (C)": 18,
+            "Humidity (%)": 59,
+            "Wind Speed (km/h)": 13,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-18",
+            "City": "Tokyo",
+            "Temperature (C)": 32,
+            "Humidity (%)": 60,
+            "Wind Speed (km/h)": 20,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-18",
+            "City": "Sydney",
+            "Temperature (C)": 9,
+            "Humidity (%)": 80,
+            "Wind Speed (km/h)": 15,
+            "Rainfall (mm)": 7.6
+        },
+        {
+            "Date": "2025-06-19",
+            "City": "New York",
+            "Temperature (C)": 31,
+            "Humidity (%)": 75,
+            "Wind Speed (km/h)": 25,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-19",
+            "City": "London",
+            "Temperature (C)": 21,
+            "Humidity (%)": 66,
+            "Wind Speed (km/h)": 30,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-19",
+            "City": "Tokyo",
+            "Temperature (C)": 30,
+            "Humidity (%)": 76,
+            "Wind Speed (km/h)": 9,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-19",
+            "City": "Sydney",
+            "Temperature (C)": 9,
+            "Humidity (%)": 56,
+            "Wind Speed (km/h)": 20,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-20",
+            "City": "New York",
+            "Temperature (C)": 30,
+            "Humidity (%)": 70,
+            "Wind Speed (km/h)": 28,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-20",
+            "City": "London",
+            "Temperature (C)": 20,
+            "Humidity (%)": 89,
+            "Wind Speed (km/h)": 16,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-20",
+            "City": "Tokyo",
+            "Temperature (C)": 31,
+            "Humidity (%)": 56,
+            "Wind Speed (km/h)": 29,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-20",
+            "City": "Sydney",
+            "Temperature (C)": 8,
+            "Humidity (%)": 78,
+            "Wind Speed (km/h)": 8,
+            "Rainfall (mm)": 3.2
+        },
+        {
+            "Date": "2025-06-21",
+            "City": "New York",
+            "Temperature (C)": 30,
+            "Humidity (%)": 77,
+            "Wind Speed (km/h)": 22,
+            "Rainfall (mm)": 0.2
+        },
+        {
+            "Date": "2025-06-21",
+            "City": "London",
+            "Temperature (C)": 20,
+            "Humidity (%)": 57,
+            "Wind Speed (km/h)": 7,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-21",
+            "City": "Tokyo",
+            "Temperature (C)": 30,
+            "Humidity (%)": 70,
+            "Wind Speed (km/h)": 17,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-21",
+            "City": "Sydney",
+            "Temperature (C)": 7,
+            "Humidity (%)": 87,
+            "Wind Speed (km/h)": 14,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-22",
+            "City": "New York",
+            "Temperature (C)": 27,
+            "Humidity (%)": 64,
+            "Wind Speed (km/h)": 20,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-22",
+            "City": "London",
+            "Temperature (C)": 20,
+            "Humidity (%)": 87,
+            "Wind Speed (km/h)": 18,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-22",
+            "City": "Tokyo",
+            "Temperature (C)": 29,
+            "Humidity (%)": 62,
+            "Wind Speed (km/h)": 16,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-22",
+            "City": "Sydney",
+            "Temperature (C)": 8,
+            "Humidity (%)": 64,
+            "Wind Speed (km/h)": 20,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-23",
+            "City": "New York",
+            "Temperature (C)": 29,
+            "Humidity (%)": 77,
+            "Wind Speed (km/h)": 21,
+            "Rainfall (mm)": 1.1
+        },
+        {
+            "Date": "2025-06-23",
+            "City": "London",
+            "Temperature (C)": 21,
+            "Humidity (%)": 88,
+            "Wind Speed (km/h)": 29,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-23",
+            "City": "Tokyo",
+            "Temperature (C)": 29,
+            "Humidity (%)": 85,
+            "Wind Speed (km/h)": 28,
+            "Rainfall (mm)": 5.8
+        },
+        {
+            "Date": "2025-06-23",
+            "City": "Sydney",
+            "Temperature (C)": 5,
+            "Humidity (%)": 72,
+            "Wind Speed (km/h)": 24,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-24",
+            "City": "New York",
+            "Temperature (C)": 29,
+            "Humidity (%)": 61,
+            "Wind Speed (km/h)": 14,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-24",
+            "City": "London",
+            "Temperature (C)": 20,
+            "Humidity (%)": 56,
+            "Wind Speed (km/h)": 30,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-24",
+            "City": "Tokyo",
+            "Temperature (C)": 28,
+            "Humidity (%)": 77,
+            "Wind Speed (km/h)": 10,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-24",
+            "City": "Sydney",
+            "Temperature (C)": 9,
+            "Humidity (%)": 90,
+            "Wind Speed (km/h)": 17,
+            "Rainfall (mm)": 8.1
+        },
+        {
+            "Date": "2025-06-25",
+            "City": "New York",
+            "Temperature (C)": 30,
+            "Humidity (%)": 53,
+            "Wind Speed (km/h)": 26,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-25",
+            "City": "London",
+            "Temperature (C)": 21,
+            "Humidity (%)": 82,
+            "Wind Speed (km/h)": 25,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-25",
+            "City": "Tokyo",
+            "Temperature (C)": 31,
+            "Humidity (%)": 50,
+            "Wind Speed (km/h)": 24,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-25",
+            "City": "Sydney",
+            "Temperature (C)": 8,
+            "Humidity (%)": 78,
+            "Wind Speed (km/h)": 26,
+            "Rainfall (mm)": 1.3
+        },
+        {
+            "Date": "2025-06-26",
+            "City": "New York",
+            "Temperature (C)": 29,
+            "Humidity (%)": 55,
+            "Wind Speed (km/h)": 17,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-26",
+            "City": "London",
+            "Temperature (C)": 20,
+            "Humidity (%)": 61,
+            "Wind Speed (km/h)": 10,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-26",
+            "City": "Tokyo",
+            "Temperature (C)": 28,
+            "Humidity (%)": 62,
+            "Wind Speed (km/h)": 29,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-26",
+            "City": "Sydney",
+            "Temperature (C)": 7,
+            "Humidity (%)": 89,
+            "Wind Speed (km/h)": 29,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-27",
+            "City": "New York",
+            "Temperature (C)": 28,
+            "Humidity (%)": 66,
+            "Wind Speed (km/h)": 6,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-27",
+            "City": "London",
+            "Temperature (C)": 21,
+            "Humidity (%)": 72,
+            "Wind Speed (km/h)": 27,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-27",
+            "City": "Tokyo",
+            "Temperature (C)": 28,
+            "Humidity (%)": 78,
+            "Wind Speed (km/h)": 27,
+            "Rainfall (mm)": 4.6
+        },
+        {
+            "Date": "2025-06-27",
+            "City": "Sydney",
+            "Temperature (C)": 7,
+            "Humidity (%)": 66,
+            "Wind Speed (km/h)": 7,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-28",
+            "City": "New York",
+            "Temperature (C)": 28,
+            "Humidity (%)": 64,
+            "Wind Speed (km/h)": 21,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-28",
+            "City": "London",
+            "Temperature (C)": 19,
+            "Humidity (%)": 78,
+            "Wind Speed (km/h)": 26,
+            "Rainfall (mm)": 1.7
+        },
+        {
+            "Date": "2025-06-28",
+            "City": "Tokyo",
+            "Temperature (C)": 29,
+            "Humidity (%)": 87,
+            "Wind Speed (km/h)": 27,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-28",
+            "City": "Sydney",
+            "Temperature (C)": 8,
+            "Humidity (%)": 53,
+            "Wind Speed (km/h)": 12,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-29",
+            "City": "New York",
+            "Temperature (C)": 24,
+            "Humidity (%)": 81,
+            "Wind Speed (km/h)": 9,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-29",
+            "City": "London",
+            "Temperature (C)": 21,
+            "Humidity (%)": 57,
+            "Wind Speed (km/h)": 27,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-29",
+            "City": "Tokyo",
+            "Temperature (C)": 29,
+            "Humidity (%)": 67,
+            "Wind Speed (km/h)": 10,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-29",
+            "City": "Sydney",
+            "Temperature (C)": 8,
+            "Humidity (%)": 52,
+            "Wind Speed (km/h)": 27,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-30",
+            "City": "New York",
+            "Temperature (C)": 24,
+            "Humidity (%)": 62,
+            "Wind Speed (km/h)": 16,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-30",
+            "City": "London",
+            "Temperature (C)": 19,
+            "Humidity (%)": 60,
+            "Wind Speed (km/h)": 9,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-30",
+            "City": "Tokyo",
+            "Temperature (C)": 27,
+            "Humidity (%)": 75,
+            "Wind Speed (km/h)": 17,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-06-30",
+            "City": "Sydney",
+            "Temperature (C)": 6,
+            "Humidity (%)": 76,
+            "Wind Speed (km/h)": 26,
+            "Rainfall (mm)": 3.7
+        },
+        {
+            "Date": "2025-07-01",
+            "City": "New York",
+            "Temperature (C)": 26,
+            "Humidity (%)": 60,
+            "Wind Speed (km/h)": 25,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-01",
+            "City": "London",
+            "Temperature (C)": 18,
+            "Humidity (%)": 57,
+            "Wind Speed (km/h)": 19,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-01",
+            "City": "Tokyo",
+            "Temperature (C)": 27,
+            "Humidity (%)": 84,
+            "Wind Speed (km/h)": 8,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-01",
+            "City": "Sydney",
+            "Temperature (C)": 9,
+            "Humidity (%)": 70,
+            "Wind Speed (km/h)": 25,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-02",
+            "City": "New York",
+            "Temperature (C)": 23,
+            "Humidity (%)": 69,
+            "Wind Speed (km/h)": 29,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-02",
+            "City": "London",
+            "Temperature (C)": 19,
+            "Humidity (%)": 85,
+            "Wind Speed (km/h)": 21,
+            "Rainfall (mm)": 1.6
+        },
+        {
+            "Date": "2025-07-02",
+            "City": "Tokyo",
+            "Temperature (C)": 25,
+            "Humidity (%)": 72,
+            "Wind Speed (km/h)": 17,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-02",
+            "City": "Sydney",
+            "Temperature (C)": 6,
+            "Humidity (%)": 52,
+            "Wind Speed (km/h)": 23,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-03",
+            "City": "New York",
+            "Temperature (C)": 24,
+            "Humidity (%)": 64,
+            "Wind Speed (km/h)": 26,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-03",
+            "City": "London",
+            "Temperature (C)": 16,
+            "Humidity (%)": 79,
+            "Wind Speed (km/h)": 14,
+            "Rainfall (mm)": 3.4
+        },
+        {
+            "Date": "2025-07-03",
+            "City": "Tokyo",
+            "Temperature (C)": 24,
+            "Humidity (%)": 85,
+            "Wind Speed (km/h)": 11,
+            "Rainfall (mm)": 1
+        },
+        {
+            "Date": "2025-07-03",
+            "City": "Sydney",
+            "Temperature (C)": 7,
+            "Humidity (%)": 58,
+            "Wind Speed (km/h)": 21,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-04",
+            "City": "New York",
+            "Temperature (C)": 21,
+            "Humidity (%)": 82,
+            "Wind Speed (km/h)": 10,
+            "Rainfall (mm)": 0.6
+        },
+        {
+            "Date": "2025-07-04",
+            "City": "London",
+            "Temperature (C)": 18,
+            "Humidity (%)": 70,
+            "Wind Speed (km/h)": 22,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-04",
+            "City": "Tokyo",
+            "Temperature (C)": 24,
+            "Humidity (%)": 56,
+            "Wind Speed (km/h)": 21,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-04",
+            "City": "Sydney",
+            "Temperature (C)": 8,
+            "Humidity (%)": 59,
+            "Wind Speed (km/h)": 6,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-05",
+            "City": "New York",
+            "Temperature (C)": 22,
+            "Humidity (%)": 52,
+            "Wind Speed (km/h)": 26,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-05",
+            "City": "London",
+            "Temperature (C)": 18,
+            "Humidity (%)": 81,
+            "Wind Speed (km/h)": 23,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-05",
+            "City": "Tokyo",
+            "Temperature (C)": 23,
+            "Humidity (%)": 51,
+            "Wind Speed (km/h)": 11,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-05",
+            "City": "Sydney",
+            "Temperature (C)": 8,
+            "Humidity (%)": 89,
+            "Wind Speed (km/h)": 23,
+            "Rainfall (mm)": 0.1
+        },
+        {
+            "Date": "2025-07-06",
+            "City": "New York",
+            "Temperature (C)": 21,
+            "Humidity (%)": 57,
+            "Wind Speed (km/h)": 27,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-06",
+            "City": "London",
+            "Temperature (C)": 17,
+            "Humidity (%)": 69,
+            "Wind Speed (km/h)": 18,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-06",
+            "City": "Tokyo",
+            "Temperature (C)": 26,
+            "Humidity (%)": 53,
+            "Wind Speed (km/h)": 29,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-06",
+            "City": "Sydney",
+            "Temperature (C)": 10,
+            "Humidity (%)": 81,
+            "Wind Speed (km/h)": 18,
+            "Rainfall (mm)": 3.1
+        },
+        {
+            "Date": "2025-07-07",
+            "City": "New York",
+            "Temperature (C)": 22,
+            "Humidity (%)": 67,
+            "Wind Speed (km/h)": 14,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-07",
+            "City": "London",
+            "Temperature (C)": 16,
+            "Humidity (%)": 63,
+            "Wind Speed (km/h)": 15,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-07",
+            "City": "Tokyo",
+            "Temperature (C)": 23,
+            "Humidity (%)": 85,
+            "Wind Speed (km/h)": 19,
+            "Rainfall (mm)": 11.6
+        },
+        {
+            "Date": "2025-07-07",
+            "City": "Sydney",
+            "Temperature (C)": 7,
+            "Humidity (%)": 79,
+            "Wind Speed (km/h)": 12,
+            "Rainfall (mm)": 6.7
+        },
+        {
+            "Date": "2025-07-08",
+            "City": "New York",
+            "Temperature (C)": 19,
+            "Humidity (%)": 88,
+            "Wind Speed (km/h)": 27,
+            "Rainfall (mm)": 0
+        },
+        {
+            "Date": "2025-07-08",
+            "City": "London",
+            "Temperature (C)": 15,
+            "Humidity (%)": 59,
+            "Wind Speed (km/h)": 12,
+            "Rainfall (mm)": 0
+        }
+    ]
+}
